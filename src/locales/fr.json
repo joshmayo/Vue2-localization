@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "links": {
+      "content": "Contenu",
+      "tutorial": "Didacticiel"
+    },
+    "headings": {
+      "helloPage": "Bienvenu",
+      "contentPage": "Page de contenu",
+      "tutorialPage": "Page de tutoriel"
+    }
+  },
+  "greetingPlaceholder": "Hello, {0}",
+  "greeting": "Bonjour, {name}",
+  "message": "Bonjour !!"
+}
