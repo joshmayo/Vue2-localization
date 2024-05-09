@@ -1,10 +1,10 @@
-# tutorial-proj
+# Vue2-localization
 
 > A Vue.js project
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
