@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "links": {
+      "content": "Inhalt",
+      "tutorial": "Tutorium"
+    },
+    "headings": {
+      "helloPage": "Willkommen",
+      "contentPage": "Inhaltsseite",
+      "tutorialPage": "Tutorial-Seite"
+    }
+  },
+  "greetingPlaceholder": "Hello, {0}",
+  "greeting": "Hallo, {name}",
+  "message": "hello i18n !!"
+}
